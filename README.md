@@ -8,5 +8,3 @@ I added the script to a cron job that ran every three minutes. If there are any 
 If you want it to send an email, uncomment the last few lines and add your email address in. Caution: many ISPs block sending emails from localhost, so you may have to set it up to send from a non-localhost email. Also, for emails I created a filter in my email account to never send an email with this exact subject to my spam folder. Make sure to do that or your email provider will probably mark it as spam pretty quickly and you won't see the updates.
 
 Enjoy!
-
-https://lucid.app/documents/view/f25fe4c9-faa0-4538-8c60-e2f7ec9ed5c6
